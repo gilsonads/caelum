@@ -7,8 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-<hr />
-Copyight 2016 - Todos os direitos reservados!
+
+	Contato ${param.nome } adicionado com sucesso
 
 </body>
 </html>
